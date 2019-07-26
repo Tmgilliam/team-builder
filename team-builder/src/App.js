@@ -20,17 +20,5 @@ function App(){
 
 
 
-// function App(){
-// const [ people, setPeople] = useState([
-//     {,
-//    
-// ]);
-
-// return (
-//     <div className="App">
-//         {people.map(person => <Card person={person})}
-//     </div>
-// // );
-// }
 
 export default App;
